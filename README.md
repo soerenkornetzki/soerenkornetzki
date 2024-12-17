@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 If you want to write me an email and like to encrypt your message, use my [public PGP key](https://raw.githubusercontent.com/soerenkornetzki/soerenkornetzki/refs/heads/main/publickey.asc).
+
+<!-- Addition from git commit -->
